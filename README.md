@@ -25,11 +25,10 @@ You can view the portfolio online via GitHub Pages:
 ### About
 
 A simple and responsive dashboard built using **HTML** and **Tailwind CSS**.
-🔗 [Dashboard on GitHub Pages](https://sarhan41.github.io/FSWD_2202031000104_Assignment-1/dashboard/index.html)
 
 ### Project Link
 
-🔗 (Will be updated soon)
+🔗 [Dashboard on GitHub Pages](https://sarhan41.github.io/FSWD_2202031000104_Assignment-1/dashboard/index.html)
 
 ### Technologies Used
 
