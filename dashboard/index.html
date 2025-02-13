@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white">
+    <div class="flex h-screen">
+        <!-- Sidebar -->
+        <aside class="w-64 bg-gray-800 p-6">
+            <h2 class="text-2xl font-bold mb-6">Dashboard</h2>
+            <nav class="space-y-4">
+                <a href="#" class="block py-2 px-4 bg-gray-700 rounded">🏠 Home</a>
+                <a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">📊 Analytics</a>
+                <a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">👥 Users</a>
+                <a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">⚙️ Settings</a>
+            </nav>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="flex-1 p-10">
+            <h1 class="text-3xl font-bold mb-6">Dashboard Overview</h1>
+            
+            <!-- Stats Cards -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+                <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                    <h2 class="text-lg font-semibold">💰 Revenue</h2>
+                    <p class="text-2xl mt-2 font-bold">$12,340</p>
+                </div>
+                <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                    <h2 class="text-lg font-semibold">📈 Engagement</h2>
+                    <p class="text-2xl mt-2 font-bold">+8.2%</p>
+                </div>
+                <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                    <h2 class="text-lg font-semibold">🛒 Conversions</h2>
+                    <p class="text-2xl mt-2 font-bold">4,512</p>
+                </div>
+            </div>
+            
+            <!-- Table -->
+            <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                <h2 class="text-lg font-semibold mb-4">Recent Users</h2>
+                <table class="w-full text-left">
+                    <thead>
+                        <tr class="border-b border-gray-700">
+                            <th class="py-2">Name</th>
+                            <th class="py-2">Email</th>
+                            <th class="py-2">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="border-b border-gray-700">
+                            <td class="py-2">John Doe</td>
+                            <td class="py-2">john@example.com</td>
+                            <td class="py-2 text-green-400">Active</td>
+                        </tr>
+                        <tr class="border-b border-gray-700">
+                            <td class="py-2">Jane Smith</td>
+                            <td class="py-2">jane@example.com</td>
+                            <td class="py-2 text-yellow-400">Pending</td>
+                        </tr>
+                        <tr>
+                            <td class="py-2">Mike Johnson</td>
+                            <td class="py-2">mike@example.com</td>
+                            <td class="py-2 text-red-400">Banned</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
