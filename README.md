@@ -1,25 +1,37 @@
-# FSWD Assignment - Portfolio
+# FSWD Assignment - Portfolio & Dashboard
 
-## About
+This repository contains my assignments for the **Full Stack Web Development (FSWD) Course** at **CLG Sarhan41**.
 
-This repository contains my assignment for the **FSWD Course** 
+## Task 1: Portfolio Website
 
-## Task 1
-(FSWD_2202031000104_Assignment-1) at **CLG Sarhan41**. It includes my portfolio showcasing the projects and work completed during the course.
+### About  
+This portfolio showcases my projects and work completed during the course, highlighting my skills and learning journey.
 
-## Project Link
+### Project Link  
+You can view the portfolio online via GitHub Pages:  
+🔗 [Portfolio on GitHub Pages](https://<username>.github.io/<repository-name>)
 
-You can view the portfolio online via the following GitHub Pages link:
+### Technologies Used  
+- **HTML** – The foundation of the portfolio structure.  
+- **Tailwind CSS** – A utility-first framework for responsive styling.
 
-[Portfolio on GitHub Pages](https://<username>.github.io/<repository-name>)
+---
 
-## Technologies Used
+## Task 2: Dashboard Website
 
-- **HTML**
-- **Tailwind CSS**
+### About  
+A simple and responsive dashboard built using **HTML** and **Tailwind CSS**.
 
+### Project Link  
+🔗 (Will be updated soon)
 
-## Contact
+### Technologies Used  
+- **HTML** – The backbone of the dashboard structure.  
+- **Tailwind CSS** – For a modern and responsive UI design.
 
-For any inquiries or feedback, please feel free to reach out to me at:  
-**Email**: sp.webdev2024@gmail.com 
+---
+
+## Contact  
+
+📩 **Email**: sp.webdev2024@gmail.com  
+🐙 **GitHub**: [@<username>](https://github.com/<username>)  
