@@ -9,7 +9,7 @@ This portfolio showcases my projects and work completed during the course, highl
 
 ### Project Link  
 You can view the portfolio online via GitHub Pages:  
-🔗 [Portfolio on GitHub Pages](https://<username>.github.io/<repository-name>)
+🔗 [Portfolio on GitHub Pages](https://<Sarhan41>.github.io/<repository-name>)
 
 ### Technologies Used  
 - **HTML** – The foundation of the portfolio structure.  
